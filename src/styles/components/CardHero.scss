@@ -1,0 +1,26 @@
+.card{
+    width: 90%;
+    background-color: $color-secondary;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+    padding: 20px;
+    border-radius: 3px;
+}
+
+.card-character{
+    width: 50%;
+}
+
+.card-description{
+    width: 50%;
+    color: black;
+    padding: 20px;
+}
+
+.card-img{
+    width: 100%;
+    height: auto;
+    color: black;
+}

@@ -1,0 +1,20 @@
+@media screen and (max-width: 810px) {
+  .card-character{
+    width: 80%;
+  }
+
+  .card-description{
+    width: 100%;
+  }
+  
+  .comics-card{
+    width: 30%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .comics-card{
+    width: 90%;
+  }
+}
+    
